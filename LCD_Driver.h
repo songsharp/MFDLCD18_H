@@ -6,8 +6,8 @@
 #define UWORD   unsigned int
 
 //Define the full screen height length of the display
-#define LCD_WIDTH  128  //LCD width
-#define LCD_HEIGHT  160 //LCD height
+#define LCD_WIDTH  160  //LCD width
+#define LCD_HEIGHT  128 //LCD height
 
 enum LCD_COLOR {
     WHITE = 0xFFFF,
